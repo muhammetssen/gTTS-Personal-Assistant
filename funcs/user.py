@@ -49,5 +49,6 @@ class User:
         elif var==2:
             for user in data.keys():
                 print(data[user]['name'])
+    
 
 
